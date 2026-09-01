@@ -1,4 +1,4 @@
-# Hi, I'm Chris Okorochukwu
+# Hi, I'm Chris Okorochukwu 👋
 
 4th year Computer Science major @ University of Florida (B.S., Spring 2027) — 3× Software Development Engineer Intern @ Amazon, currently applying for a full-time new-grad SWE role.
 
